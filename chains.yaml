@@ -546,8 +546,8 @@
 
 # ibc-go sim (for testing)
 - name: ibc-go-simd
-  github-organization: cosmos
-  github-repo: ibc-go
+  github-organization: ConsiderItDone
+  github-repo: ibc-go-strangelove
   dockerfile: cosmos
   build-target: make build
   binaries:
